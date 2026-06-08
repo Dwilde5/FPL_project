@@ -110,7 +110,7 @@ This pulls the current season from the official FPL API and saves raw JSON to `d
 
 ## Current Status
 
-- [ ] Phase 1 — Python & tooling foundations
+- [x] Phase 1 — Python & tooling foundations
 - [ ] Phase 2 — Data pipeline
 - [ ] Phase 3 — Expected points model
 - [ ] Phase 4 — Rule-based agent
